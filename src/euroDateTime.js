@@ -1,7 +1,8 @@
 /*!
  * EU Date/Time Sort function for the datatables plugin
  *
- * Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
+ * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
+ * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
  *
  * Built on top of the jQuery library (http://jquery.com) 
  * & DataTables jQuery Plugin (http://datatables.net)
@@ -15,8 +16,6 @@
 function calculate_date(fulldate) {
 	
 	//Initial only date time objects like "17-04-2014 13:54:11"
- 	console.log("fulldate: ");
- 	console.log(fulldate);
 	
 	var dtArray = fulldate.split(" ");
 		
