@@ -1,8 +1,7 @@
 /*!
  * EU Date/Time Sort function for the datatables plugin
  *
- * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
- * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
+ * Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
  *
  * Built on top of the jQuery library (http://jquery.com) 
  * & DataTables jQuery Plugin (http://datatables.net)
